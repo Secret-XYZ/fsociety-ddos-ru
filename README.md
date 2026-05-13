@@ -23,5 +23,5 @@ Fsociety DDoS GUI — это приложение для выполнения п
 **На Windows**
   1. Установите Python: Загрузите и установите Python 3.x с [официального сайта Python](https://www.python.org/downloads/) 🐍.
   2. Клонируйте репозиторий: Откройте командную строку и выполните следующую команду:
-`git clone https://github.com/username/fsociety-ddos-gui.git
-cd fsociety-ddos-gui`
+```git clone https://github.com/username/fsociety-ddos-gui.git
+cd fsociety-ddos-gui```
